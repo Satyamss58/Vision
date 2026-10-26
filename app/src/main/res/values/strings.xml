@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="accessibility_service_description">Vision AI Accessibility Service for touch and gesture automation.</string>
+</resources>
